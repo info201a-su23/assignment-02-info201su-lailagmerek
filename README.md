@@ -24,7 +24,8 @@ Before diving into this (or any) dataset, it's important to know where the data 
 
 **Note:** Please write your answers below under the heading "Your Responses and Reflections."
 
-- First, please read [this FAQ](https://countlove.org/faq.html) from the CountLove website and the opening of [this blog post](https://www.tommyleung.com/countLove/index.htm).  **(R1a)** Based on the information in these pieces, why did the creators start collecting the CountLove data?
+- First, please read [this FAQ](https://countlove.org/faq.html) from the CountLove website and the opening of [this blog post](https://www.tommyleung.com/countLove/index.htm).  **(R1a)** Based on the information in these pieces, why did the creators start collecting the CountLove data? 
+Count Love was created to address the lack of accessible data for protezt information in the United States. They started collecting protest data in 2016, in order to provide a factual record of ongoing demonstration and make the data more acccessible for journalists. The data is used by organizations such as the New York Times Protest Database.
 
 - Next, we would like you to read this [New York Times piece that uses CountLove data](https://www.nytimes.com/interactive/2020/06/13/us/george-floyd-protests-cities-photos.html) and that describes the Black Lives Matter protests that occurred in the summer of 2020. **(R1b)** Please summarize the main point or argument of this article.
 
