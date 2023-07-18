@@ -24,8 +24,7 @@ Before diving into this (or any) dataset, it's important to know where the data 
 
 **Note:** Please write your answers below under the heading "Your Responses and Reflections."
 
-- First, please read [this FAQ](https://countlove.org/faq.html) from the CountLove website and the opening of [this blog post](https://www.tommyleung.com/countLove/index.htm).  **(R1a)** Based on the information in these pieces, why did the creators start collecting the CountLove data? 
-Count Love was created to address the lack of accessible data for protezt information in the United States. They started collecting protest data in 2016, in order to provide a factual record of ongoing demonstration and make the data more acccessible for journalists. The data is used by organizations such as the New York Times Protest Database.
+- First, please read [this FAQ](https://countlove.org/faq.html) from the CountLove website and the opening of [this blog post](https://www.tommyleung.com/countLove/index.htm).  **(R1a)** 
 
 - Next, we would like you to read this [New York Times piece that uses CountLove data](https://www.nytimes.com/interactive/2020/06/13/us/george-floyd-protests-cities-photos.html) and that describes the Black Lives Matter protests that occurred in the summer of 2020. **(R1b)** Please summarize the main point or argument of this article.
 
@@ -41,7 +40,7 @@ Next, we're going to reflect about who collected this data, and what's actually 
 
 **(R1g)** What are two central values of Count Love? Name and briefly describe them. (See the Envisioning Cards for a defintion of "value".)
 
-**(R1h)** Name and briefly describe one direct stakeholder and one indirect stakeholder (See the Envisioning Cards)? 
+**(R1h)** Name and briefly describe one direct stakeholder and one indirect stakeholder 
 
 # 2. Coding in R: Parts 1-6
 **Instructions**. Assignment instructions and prompts are in this file: [analysis.R](analysis.R).
@@ -87,13 +86,21 @@ In the second chapter of *Data Feminism*, Klein and D'Ignazio describe 4 ways th
 ### Critical Analysis & Reflection: Before You Code (questions above)
 
 * **(R1a)** ... (about 25-50 words)
+The creators of Count Love started collecting protest data in 2016 to address the lack of accessible protest information in the US, aiming to provide a factual record and make it more accessible for journalists. The data is used by organizations like the New York Times Protest Database.
 * **(R1b)** ... (about 25-50 words)
+The main point of the article is that the death of George Floyd in Minneapolis ignited a widespread movement against racism and police brutality in the United States. The article highlights the scale and intensity of the Black Lives Matter protests that took place in the summer of 2020, with demonstrations occurring in numerous cities and towns across the country. It describes the diverse participants, the peaceful nature of most protests, as well as instances of violence and destruction. The article raises the question of whether these protests will lead to lasting change and urges a closer examination of the challenges faced by black Americans.
 * **(R1c)** ... (about 25-50 words)
+Tommy Leung and Nathan Perkins, who are engineers and scientists collect and shared CountLove data.
 * **(R1d)** ... (about 25-50 words)
+CountLove includes public displays of protest that are not regular business, focusing on demonstrations that express dissent and demand change. They exclude awareness events, celebrations, reenactments, fundraising events, town halls, and political rallies.
 * **(R1e)** ... (about 25-50 words)
+CountLove obtains its protest data by crawling local newspaper and television sites on a daily basis. They gather information from news articles and record the most conservative attendance numbers mentioned in those articles.
 * **(R1f)** ... (about 25-50 words)
+CountLove estimates the number of attendees by recording the most conservative attendance number mentioned in news articles. However, this method relies on the accuracy of media reports and may be subject to biases, errors, and limitations in available information.
 * **(R1g)** ... (bullet points fine; about 50 words)
+Two central values of Count Love are accessibility and maintaining a factual record. They prioritize making protest data accessible to journalists and citizens while ensuring an accurate and comprehensive record of ongoing demonstrations, fostering transparency and informed civic engagement.
 * **(R1h)** ... (bullet points fine; about 50 words)
+One direct stakeholder of Count Love is the Crowd Counting Consortium (CCC), which collaborates with Count Love to gather protest data. An indirect stakeholder is the general public, who benefit from accessible and reliable protest data to stay informed and engage in civic participation.
 
 ### Part 3: Locations (`analysis.R`)
 * **(R3a)** ... (about 25-50 words)
