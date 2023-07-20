@@ -1,0 +1,7 @@
+library(stringr)
+install.packages("stringr")
+library(stringr)
+install.packages("readr")
+library(readr)
+protests <- read_csv("https://countlove.org/data/data.csv")
+View(protests)
