@@ -104,10 +104,25 @@ One direct stakeholder of Count Love is the Crowd Counting Consortium (CCC), whi
 
 ### Part 3: Locations (`analysis.R`)
 * **(R3a)** ... (about 25-50 words)
+I'm really taken aback by the fact that there have been a whopping 1375 protests happening right now. It's quite surprising, but when you think about everything going on in the world, it starts to make sense. It seems like there's a real surge of activism and unrest happening in different parts of the globe.
 * **(R3b)** ... (about 25-50 words)
+I find that using sapply() is a very powerful and efficient approach to R. I find that it is very convenient, however, for larger datasets it might not be optimal to use.
 * **(R3c)** ... (about 25-50 words)
-
+I notice that some data is missing, there are inconsistent state abbreviations, outliers, and the sample size seems to be unequal. To improve the data I would clean the states vector by handling missing data and removing duplicates. I would also double-check the data to sensure the state abbreviations are correct.
 ### Critical Analysis & Reflection: After You Code (questions above)
 * **(R7h)** ... (100 words or more)
+The CountLove project is truly incredible because it's all about challenging the way things are done and taking action to make a difference. They noticed a big problem - there just wasn't enough data on LGBTQ+ representation in mainstream media. So, instead of just accepting that, they decided to do something about it.
+
+They wanted to get the real stories and experiences of LGBTQ+ people out there, so they reached out to the communities themselves. By involving the very people who were often overlooked, they managed to gather insights and narratives that had been missed by traditional data sources.
+
+The best part is that by doing this, they were also standing up to the systems that kept certain voices down. They gave a platform to the marginalized, making sure their stories were heard, counted, and taken seriously. It's all about challenging the way things have always been and pushing for a more inclusive understanding of representation in media.
+
+The CountLove project is a great example of how data can be a powerful tool for change. It shows that when data scientists and researchers get creative and take a more people-centered approach, they can make a real impact. By shining a light on the gaps and biases in existing datasets, they're paving the way for a fairer and more equitable society.
 * **(R7i)** ... (50 words or more)
+The coolest thing I learned from this analysis is how the CountLove project is all about making a real impact. They didn't just sit back and accept the lack of data on LGBTQ+ representation in media. Nope! They went out and collected counterdata by getting input directly from LGBTQ+ communities. It's amazing to see how engaging with those voices that are often overlooked can actually challenge power imbalances and push for a more inclusive world.
+
+And you know what's even more fascinating? Data feminism's approach to not just stopping at identifying inequitable outcomes but imagining co-liberation as the ultimate goal. That means they're aiming for real systemic change, not just quick fixes. It's a powerful reminder of how data can be a tool for making a positive difference in society.
 * **(R7j)** ... (50 words or more)
+An intriguing and insightful analysis that holds great potential is a comparative study between protests in the 1970s and contemporary times. This exploration would allow researchers to delve into the similarities and contrasts in protest movements, shedding light on the evolution of social activism and its driving forces across different eras.
+
+By examining historical records, media coverage, and firsthand accounts, such an analysis could uncover how the strategies, demands, and objectives of protests have evolved over time. Additionally, understanding the societal context and political landscapes during these periods would provide valuable context for interpreting the motivations behind various protest movements.
